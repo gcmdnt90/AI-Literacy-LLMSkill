@@ -2,7 +2,7 @@
 
 Pacchetto portabile `SKILL.md` per creare, eseguire, aggiornare e monitorare un corso personalizzato di alfabetizzazione all'intelligenza artificiale.
 
-La versione inglese è disponibile in `README_EN.md`.
+*English version available in `README_EN.md`.*
 
 La skill è progettata attorno a un nucleo multipiattaforma:
 
