@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Literacy Course"
+  short_description: "Personal adaptive AI literacy tutor"
+  default_prompt: "Use $ai-literacy-course to start or continue my personal AI literacy course."
