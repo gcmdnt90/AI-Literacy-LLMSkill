@@ -53,7 +53,7 @@ Copia `ai-literacy-course/` nella tua directory delle skill, per esempio:
 Poi invoca:
 
 ```text
-Use $ai-literacy-course to start or continue my personal AI literacy course.
+Usa /ai-literacy-course per iniziare o continuare il mio corso personale di AI literacy.
 ```
 
 ### Claude / Anthropic
