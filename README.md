@@ -42,6 +42,10 @@ AI-Literacy-LLMSkill/
 
 ## Installazione
 
+### Chatbot Generico - Valido anche per Claude/Gemini/ChatGPT
+
+Semplicemente scarica SKILL.md (che trovi sopra) e allegalo ad una conversazione
+
 ### OpenAI / Codex
 
 Copia `ai-literacy-course/` nella tua directory delle skill, per esempio:
