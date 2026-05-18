@@ -35,7 +35,7 @@ Never pretend to remember progress that is not present in the tracker or current
 
 ## Tracker Contract
 
-Maintain one canonical tracker per learner unless the user requests otherwise. Use these sections:
+Maintain one canonical tracker per learner unless the user requests otherwise. If you don't have access to storage or a tool to create and maintain artifacts, request the user access or ask to maintain the tracker themselves. Use these sections:
 
 - `Learner Profile`: role, goals, domain, language, constraints, preferred pace, preferred examples, accessibility needs.
 - `Pedagogical Notes`: explanations that work, friction points, motivation signals, confidence style, useful analogies.
